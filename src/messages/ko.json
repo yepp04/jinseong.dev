@@ -1,0 +1,62 @@
+{
+  "header": {
+    "about": "소개",
+    "skills": "기술",
+    "projects": "프로젝트",
+    "contact": "연락처"
+  },
+  "hero": {
+    "status": "외주 & 프리랜서 문의 가능",
+    "greeting": "안녕하세요,",
+    "name": "강진성",
+    "namePostfix": "입니다.",
+    "description": "프론트엔드 전문 웹 개발자.",
+    "subdescription": "React, Vue.js, Next.js 기반의 6년차 프론트엔드 개발자입니다. \n필요에 따라 백엔드와 배포까지 대응 가능합니다.",
+    "cta": "프로젝트 보기",
+    "contact": "외주 문의"
+  },
+  "about": {
+    "subtitle": "소개",
+    "title": "About Me",
+    "description": "2020년부터 프론트엔드 개발자로 일하며 다양한 프로젝트를 경험했습니다.\nA사에서 주임연구원 파트장으로 팀을 이끌었고, 그린카 차세대 관제 시스템을 개발했습니다.\nSK Hynix에서 프리랜서로 SI 프로젝트를 수행했으며,\n현재는 커머스 쇼핑몰 프론트엔드를 전담하면서 외주 프로젝트도 진행하고 있습니다.",
+    "experience": "6년차",
+    "experienceLabel": "개발 경력",
+    "experienceDesc": "프론트엔드 전문으로 React, Vue.js, Next.js 등 다양한 프레임워크 실무 경험을 보유하고 있습니다.",
+    "focus": "프론트엔드",
+    "focusLabel": "전문 분야",
+    "focusDesc": "React/Next.js, Vue.js/Nuxt.js 기반의 SPA·SSR 개발이 주력이며, 필요 시 백엔드·배포도 대응합니다.",
+    "passion": "외주 가능",
+    "passionLabel": "협업 방식",
+    "passionDesc": "프리랜서, 외주, 정규직 모두 가능합니다. 소규모 프로젝트부터 대규모 SI까지 경험이 있습니다."
+  },
+  "skills": {
+    "subtitle": "기술 스택",
+    "title": "Skills",
+    "description": "프론트엔드가 주력이며, 필요에 따라 백엔드와 인프라도 다룹니다.",
+    "frontend": "프론트엔드",
+    "stateManagement": "상태 관리",
+    "styling": "스타일링 & UI",
+    "tools": "도구 & 환경"
+  },
+  "projects": {
+    "subtitle": "주요 프로젝트",
+    "title": "Projects",
+    "description": "프로젝트를 정리 중입니다. 곧 업데이트됩니다.",
+    "project1": {
+      "title": "프로젝트 준비 중",
+      "description": "SK Hynix SI, 그린카 차세대 관제, 커머스 쇼핑몰, 드로잉 캔버스 앱 등 다양한 프로젝트를 수행했습니다. 상세 포트폴리오를 정리하여 곧 업데이트할 예정입니다.",
+      "metricLabel": "예정",
+      "metric": "Coming Soon"
+    }
+  },
+  "contact": {
+    "subtitle": "연락처",
+    "title": "프로젝트, 함께 하실래요?",
+    "description": "웹사이트 제작, 서비스 개발, SI 프로젝트 등 어떤 규모든 편하게 문의해 주세요.\n견적부터 상담까지 무료입니다.",
+    "email": "이메일 보내기",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "Jinseong Kang. All rights reserved."
+  }
+}

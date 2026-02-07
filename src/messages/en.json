@@ -1,0 +1,62 @@
+{
+  "header": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "status": "Available for hire & projects",
+    "greeting": "Hi, I'm",
+    "name": "Jinseong Kang",
+    "namePostfix": ".",
+    "description": "Frontend-focused web developer.",
+    "subdescription": "6th-year frontend developer specializing in React, Vue.js, and Next.js. \nI also handle backend and deployment when the project calls for it.",
+    "cta": "View Projects",
+    "contact": "Hire Me"
+  },
+  "about": {
+    "subtitle": "Introduction",
+    "title": "About Me",
+    "description": "Since 2020, I've worked as a frontend developer across a wide range of projects.\nAt Company A, I led a team as lead researcher for 2.5 years and built the GreenCar next-gen fleet management system.\nAs a freelancer at SK Hynix, I delivered an SI project.\nCurrently handling an e-commerce frontend while taking on diverse freelance projects.",
+    "experience": "6th Year",
+    "experienceLabel": "Experience",
+    "experienceDesc": "Specialized in frontend with hands-on experience across React, Vue.js, Next.js, and more.",
+    "focus": "Frontend",
+    "focusLabel": "Specialty",
+    "focusDesc": "SPA & SSR development with React/Next.js and Vue.js/Nuxt.js. I can also handle backend and deployment when needed.",
+    "passion": "For Hire",
+    "passionLabel": "Work Style",
+    "passionDesc": "Freelance, contract, or full-time. Experienced with projects of all sizes, from small apps to enterprise SI."
+  },
+  "skills": {
+    "subtitle": "Tech Stack",
+    "title": "Skills",
+    "description": "Frontend is my core strength. I also work with backend and infrastructure tools as needed.",
+    "frontend": "Frontend",
+    "stateManagement": "State Management",
+    "styling": "Styling & UI",
+    "tools": "Tools & Environment"
+  },
+  "projects": {
+    "subtitle": "Featured Work",
+    "title": "Projects",
+    "description": "Projects are being organized. Updates coming soon.",
+    "project1": {
+      "title": "Projects Coming Soon",
+      "description": "Experience includes SK Hynix SI, GreenCar fleet management, e-commerce storefronts, and drawing canvas applications. Detailed portfolio coming soon.",
+      "metricLabel": "Status",
+      "metric": "Coming Soon"
+    }
+  },
+  "contact": {
+    "subtitle": "Get in Touch",
+    "title": "Let's Build Something Together",
+    "description": "Websites, web apps, SI projects — whatever the scale, feel free to reach out.\nFree consultation and estimates.",
+    "email": "Send Email",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "Jinseong Kang. All rights reserved."
+  }
+}
